@@ -1,0 +1,66 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.51</VERSION>
+ <DEVICE>"ATmega644P"</DEVICE>
+ <WORKING_DIR>C:\Users\Tom\Documents\GitHub\WS2811Controller V2\WS2811Controller V2\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\Atmel Studio 6.0\extensions\Atmel\AVRAssembler\2.1.51.46\AvrAssembler/Include</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Tom\Documents\GitHub\WS2811Controller V2\WS2811Controller V2\WS2811Controller.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\Atmel Studio 6.0\extensions\Atmel\AVRAssembler\2.1.51.46\AvrAssembler/Include\m644pdef.inc</FILE>
+  <FILE>C:\Program Files (x86)\Atmel\Atmel Studio 6.0\extensions\Atmel\AVRAssembler\2.1.51.46\AvrAssembler/Include\m644Pdef.inc</FILE>
+  <FILE>C:\Users\Tom\Documents\GitHub\WS2811Controller V2\WS2811Controller V2\macros.inc</FILE>
+  <FILE>C:\Users\Tom\Documents\GitHub\WS2811Controller V2\WS2811Controller V2\ProjectMacros.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Tom\Documents\GitHub\WS2811Controller V2\WS2811Controller V2\Debug/WS2811Controller.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\Users\Tom\Documents\GitHub\WS2811Controller V2\WS2811Controller V2\Debug/WS2811Controller.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\Users\Tom\Documents\GitHub\WS2811Controller V2\WS2811Controller V2\Debug\WS2811Controller.map</FILE>
+  <FILE>C:\Users\Tom\Documents\GitHub\WS2811Controller V2\WS2811Controller V2\Debug\WS2811Controller.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <Init><FILE>C:\Users\Tom\Documents\GitHub\WS2811Controller V2\WS2811Controller V2\WS2811Controller.asm</FILE><LINE>74</LINE></Init>
+  <Main><FILE>C:\Users\Tom\Documents\GitHub\WS2811Controller V2\WS2811Controller V2\WS2811Controller.asm</FILE><LINE>103</LINE></Main>
+  <Processcommand><FILE>C:\Users\Tom\Documents\GitHub\WS2811Controller V2\WS2811Controller V2\WS2811Controller.asm</FILE><LINE>116</LINE></Processcommand>
+  <ProcessCommand_NoValidCommand><FILE>C:\Users\Tom\Documents\GitHub\WS2811Controller V2\WS2811Controller V2\WS2811Controller.asm</FILE><LINE>127</LINE></ProcessCommand_NoValidCommand>
+  <ProcessCommandJumps><FILE>C:\Users\Tom\Documents\GitHub\WS2811Controller V2\WS2811Controller V2\WS2811Controller.asm</FILE><LINE>134</LINE></ProcessCommandJumps>
+  <UnknownCommand><FILE>C:\Users\Tom\Documents\GitHub\WS2811Controller V2\WS2811Controller V2\WS2811Controller.asm</FILE><LINE>169</LINE></UnknownCommand>
+  <ClearDataBuffer><FILE>C:\Users\Tom\Documents\GitHub\WS2811Controller V2\WS2811Controller V2\WS2811Controller.asm</FILE><LINE>174</LINE></ClearDataBuffer>
+  <OutputData><FILE>C:\Users\Tom\Documents\GitHub\WS2811Controller V2\WS2811Controller V2\WS2811Controller.asm</FILE><LINE>228</LINE></OutputData>
+  <ReceiveData><FILE>C:\Users\Tom\Documents\GitHub\WS2811Controller V2\WS2811Controller V2\WS2811Controller.asm</FILE><LINE>195</LINE></ReceiveData>
+  <ProcessCommandJumpsEnd><FILE>C:\Users\Tom\Documents\GitHub\WS2811Controller V2\WS2811Controller V2\WS2811Controller.asm</FILE><LINE>163</LINE></ProcessCommandJumpsEnd>
+  <DataBuffer><FILE>C:\Users\Tom\Documents\GitHub\WS2811Controller V2\WS2811Controller V2\WS2811Controller.asm</FILE><LINE>603</LINE></DataBuffer>
+  <ClearDataBufferLoop><FILE>C:\Users\Tom\Documents\GitHub\WS2811Controller V2\WS2811Controller V2\WS2811Controller.asm</FILE><LINE>185</LINE></ClearDataBufferLoop>
+  <ReceiveData_Loop><FILE>C:\Users\Tom\Documents\GitHub\WS2811Controller V2\WS2811Controller V2\WS2811Controller.asm</FILE><LINE>210</LINE></ReceiveData_Loop>
+  <Channel_loop_800><FILE>C:\Users\Tom\Documents\GitHub\WS2811Controller V2\WS2811Controller V2\WS2811Controller.asm</FILE><LINE>244</LINE></Channel_loop_800>
+  <Bit0_0_800><FILE>C:\Users\Tom\Documents\GitHub\WS2811Controller V2\WS2811Controller V2\WS2811Controller.asm</FILE><LINE>269</LINE></Bit0_0_800>
+  <Bit0_1_800><FILE>C:\Users\Tom\Documents\GitHub\WS2811Controller V2\WS2811Controller V2\WS2811Controller.asm</FILE><LINE>253</LINE></Bit0_1_800>
+  <Bit0_Tail_800><FILE>C:\Users\Tom\Documents\GitHub\WS2811Controller V2\WS2811Controller V2\WS2811Controller.asm</FILE><LINE>284</LINE></Bit0_Tail_800>
+  <Bit1_0_800><FILE>C:\Users\Tom\Documents\GitHub\WS2811Controller V2\WS2811Controller V2\WS2811Controller.asm</FILE><LINE>310</LINE></Bit1_0_800>
+  <Bit1_1_800><FILE>C:\Users\Tom\Documents\GitHub\WS2811Controller V2\WS2811Controller V2\WS2811Controller.asm</FILE><LINE>294</LINE></Bit1_1_800>
+  <Bit1_Tail_800><FILE>C:\Users\Tom\Documents\GitHub\WS2811Controller V2\WS2811Controller V2\WS2811Controller.asm</FILE><LINE>325</LINE></Bit1_Tail_800>
+  <Bit2_0_800><FILE>C:\Users\Tom\Documents\GitHub\WS2811Controller V2\WS2811Controller V2\WS2811Controller.asm</FILE><LINE>351</LINE></Bit2_0_800>
+  <Bit2_1_800><FILE>C:\Users\Tom\Documents\GitHub\WS2811Controller V2\WS2811Controller V2\WS2811Controller.asm</FILE><LINE>335</LINE></Bit2_1_800>
+  <Bit2_Tail_800><FILE>C:\Users\Tom\Documents\GitHub\WS2811Controller V2\WS2811Controller V2\WS2811Controller.asm</FILE><LINE>366</LINE></Bit2_Tail_800>
+  <bit3_0_800><FILE>C:\Users\Tom\Documents\GitHub\WS2811Controller V2\WS2811Controller V2\WS2811Controller.asm</FILE><LINE>393</LINE></bit3_0_800>
+  <Bit3_1_800><FILE>C:\Users\Tom\Documents\GitHub\WS2811Controller V2\WS2811Controller V2\WS2811Controller.asm</FILE><LINE>377</LINE></Bit3_1_800>
+  <bit3_Tail_800><FILE>C:\Users\Tom\Documents\GitHub\WS2811Controller V2\WS2811Controller V2\WS2811Controller.asm</FILE><LINE>408</LINE></bit3_Tail_800>
+  <bit4_0_800><FILE>C:\Users\Tom\Documents\GitHub\WS2811Controller V2\WS2811Controller V2\WS2811Controller.asm</FILE><LINE>435</LINE></bit4_0_800>
+  <Bit4_1_800><FILE>C:\Users\Tom\Documents\GitHub\WS2811Controller V2\WS2811Controller V2\WS2811Controller.asm</FILE><LINE>419</LINE></Bit4_1_800>
+  <bit4_Tail_800><FILE>C:\Users\Tom\Documents\GitHub\WS2811Controller V2\WS2811Controller V2\WS2811Controller.asm</FILE><LINE>450</LINE></bit4_Tail_800>
+  <bit5_0_800><FILE>C:\Users\Tom\Documents\GitHub\WS2811Controller V2\WS2811Controller V2\WS2811Controller.asm</FILE><LINE>477</LINE></bit5_0_800>
+  <Bit5_1_800><FILE>C:\Users\Tom\Documents\GitHub\WS2811Controller V2\WS2811Controller V2\WS2811Controller.asm</FILE><LINE>461</LINE></Bit5_1_800>
+  <bit5_Tail_800><FILE>C:\Users\Tom\Documents\GitHub\WS2811Controller V2\WS2811Controller V2\WS2811Controller.asm</FILE><LINE>492</LINE></bit5_Tail_800>
+  <bit6_0_800><FILE>C:\Users\Tom\Documents\GitHub\WS2811Controller V2\WS2811Controller V2\WS2811Controller.asm</FILE><LINE>518</LINE></bit6_0_800>
+  <Bit6_1_800><FILE>C:\Users\Tom\Documents\GitHub\WS2811Controller V2\WS2811Controller V2\WS2811Controller.asm</FILE><LINE>502</LINE></Bit6_1_800>
+  <bit6_Tail_800><FILE>C:\Users\Tom\Documents\GitHub\WS2811Controller V2\WS2811Controller V2\WS2811Controller.asm</FILE><LINE>533</LINE></bit6_Tail_800>
+  <bit7_0_800><FILE>C:\Users\Tom\Documents\GitHub\WS2811Controller V2\WS2811Controller V2\WS2811Controller.asm</FILE><LINE>572</LINE></bit7_0_800>
+  <Bit7_1_800><FILE>C:\Users\Tom\Documents\GitHub\WS2811Controller V2\WS2811Controller V2\WS2811Controller.asm</FILE><LINE>543</LINE></Bit7_1_800>
+  <bit7_islasthighbit_800><FILE>C:\Users\Tom\Documents\GitHub\WS2811Controller V2\WS2811Controller V2\WS2811Controller.asm</FILE><LINE>561</LINE></bit7_islasthighbit_800>
+  <leave_loop_800><FILE>C:\Users\Tom\Documents\GitHub\WS2811Controller V2\WS2811Controller V2\WS2811Controller.asm</FILE><LINE>589</LINE></leave_loop_800>
+ </LABELS>
+</ASSEMBLER_INFO>
