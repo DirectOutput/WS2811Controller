@@ -1,0 +1,25 @@
+Partlist
+
+Exported from WS2811Controller.sch at 29.04.2014 12:13:41
+
+EAGLE Version 6.4.0 Copyright (c) 1988-2013 CadSoft
+
+Assembly variant: 
+
+Part             Value                 Device                Package                Library          Sheet
+
+AVR-ISP                                AVR-ISP-6             AVR-ISP-6              0_avr            1
+C1               100nF                 C-EU025-025X050       C025-025X050           0_Standard-Parts 1
+C2               22pf                  C-EU025-025X050       C025-025X050           0_Standard-Parts 1
+C3               22pf                  C-EU025-025X050       C025-025X050           0_Standard-Parts 1
+C4               100nF                 C-EU025-025X050       C025-025X050           0_Standard-Parts 1
+EXTCONNECTOR                           22-27-2101-10         6410-10                con-molex        1
+IC1              MEGA164P/324P/644P-PU MEGA164P/324P/644P-PU DIL40                  0_avr            1
+LED1                                   LED3MM                LED3MM                 0_Led            1
+LED2                                   LED3MM                LED3MM                 0_Led            1
+Q1               20Mhz                 CRYSTALHC49U-V        HC49U-V                0_tom parts      1
+R1               10k                   R-EU_0207/10          0207/10                0_Standard-Parts 1
+R2               330                   R-EU_0207/10          0207/10                0_Standard-Parts 1
+R3               330                   R-EU_0207/10          0207/10                0_Standard-Parts 1
+SPARKFUN_FT245RL                       FT245RL_BREAKOUTBOARD SPARKFUN_FT245RL_BOARD Sparkfun         1
+STRIP1                                 22-27-2031-03         6410-03                con-molex        1

@@ -1,0 +1,36 @@
+Partlist
+
+Exported from serial led controller.brd at 24.06.2014 08:57:33
+
+EAGLE Version 6.4.0 Copyright (c) 1988-2013 CadSoft
+
+Assembly variant: 
+
+Part            Value                 Package      Library          Position (inch)       Orientation
+
++5V                                   TP19R        testpad          (0.425 0.6)           MR270
+C1              100nF                 C0603K       rcl              (0.8125 0.7)          R180
+C2              22pf                  C0603K       rcl              (0.28125 0.125)       R180
+C3              22pf                  C0603K       rcl              (0.40625 0.625)       R180
+C4              10n                   C0603K       rcl              (1.4125 0.5625)       R270
+C5              100nF                 C0603K       rcl              (0.425 0.43125)       R180
+C6              100nF                 C0603K       rcl              (1.2 0.5625)          R270
+C7              10uf                  C0603K       rcl              (1.125 0.5625)        R270
+C8              100nF                 C0603K       rcl              (0.7875 0.1)          R0
+EXT_PORT                              2X08         pinhead          (1.15 0.85)           R0
+GND                                   TP19R        testpad          (0.425 0.4)           MR270
+IC1             MEGA1284              TQFP44       0_avr            (0.775 0.4)           R0
+IC2             FT245RL               SSOP28DB     ftdichip-3       (1.275 0.3)           R0
+L1              BLM21AG 601           L805         0_Standard-Parts (1.31875 0.56875)     R270
+LED1Y           Yellow                CHIP-LED0603 led              (0.425 0.1375)        R270
+LED2R           Red                   CHIP-LED0603 led              (0.425 0.1875)        R270
+MISO                                  TP19R        testpad          (0.525 0.6)           MR270
+MOSI                                  TP19R        testpad          (0.425 0.5)           MR270
+Q1              20Mhz                 SM49         crystal          (0.24375 0.45625)     R90
+R1              10k                   R0603        0_Standard-Parts (0.425 0.49375)       R0
+R2              330                   R0603        0_Standard-Parts (0.425 0.3)           R180
+R3              330                   R0603        0_Standard-Parts (0.425 0.24375)       R180
+RST                                   TP19R        testpad          (0.525 0.4)           MR270
+SCK                                   TP19R        testpad          (0.525 0.5)           MR270
+STRIP_CONNECTOR                       6410-03      con-molex        (0.45 0.85)           R180
+X1              MINI-USB-UX60A-MB-5ST UX60A-MB-5ST con-hirose       (1.65 0.4875)         R180

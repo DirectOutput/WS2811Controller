@@ -1,0 +1,32 @@
+Partlist
+
+Exported from serial led controller.brd at 05.06.2014 11:07:59
+
+EAGLE Version 6.4.0 Copyright (c) 1988-2013 CadSoft
+
+Assembly variant: 
+
+Part            Value                 Package      Library          Position (mm)         Orientation
+
+C1              100nF                 C0603K       rcl              (20.6375 17.78)       R180
+C2              22pf                  C0603K       rcl              (7.14375 3.175)       R180
+C3              22pf                  C0603K       rcl              (10.31875 15.875)     R180
+C4              10n                   C0603K       rcl              (35.8775 14.2875)     R270
+C5              100nF                 C0603K       rcl              (10.795 10.95375)     R180
+C6              100nF                 C0603K       rcl              (30.48 14.2875)       R270
+C7              10uf                  C0603K       rcl              (28.575 14.2875)      R270
+C8              100nF                 C0603K       rcl              (20.0025 2.54)        R0
+IC1             ATMEGA1284            TQFP44       0_avr            (19.685 10.16)        R0
+IC2             FT245RL               SSOP28DB     ftdichip-3       (32.385 7.62)         R0
+L1              1.5A/307              R0603        0_Standard-Parts (33.655 14.2875)      R270
+LED1                                  CHIP-LED0603 led              (10.795 3.4925)       R270
+LED2                                  CHIP-LED0603 led              (10.795 4.7625)       R270
+Q1              20Mhz                 SM49         crystal          (6.19125 11.58875)    R90
+R1              10k                   R0603        0_Standard-Parts (10.795 12.54125)     R0
+R2              330                   R0603        0_Standard-Parts (10.795 7.62)         R180
+R3              330                   R0603        0_Standard-Parts (10.795 6.19125)      R180
+RST                                   TP19R        testpad          (13.335 10.16)        MR270
+SCK                                   TP19R        testpad          (13.335 12.7)         MR270
+X1              MINI-USB-UX60A-MB-5ST UX60A-MB-5ST con-hirose       (41.91 12.3825)       R180
+STRIP_CONNECTOR                       6410-03      con-molex        (11.43 21.59)         R180
+EXT_PORT                              2X08         pinhead          (29.21 21.59)         R0
